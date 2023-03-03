@@ -17,17 +17,17 @@ Streamlines can intersect border between fluids because of simplified calculatio
 
 
 Applying potential force to two phase fluid:
-**![full process video](https://raw.githubusercontent.com/halt9k/interactive-fluid-dynamics/main/desc/Simple.mp4)**  
+**![full process video](https://raw.githubusercontent.com/halt9k/interactive-fluid-dynamics/main/Docs/Simple.mp4)**  
 
 Preview:  
-![](https://github.com/halt9k/interactive-fluid-dynamics/blob/main/desc/Simple.png?raw=true)  
+![](https://github.com/halt9k/interactive-fluid-dynamics/blob/main/Docs/Simple.png?raw=true)  
 
 Same, but with initial disturbance:
-**![full process video](https://raw.githubusercontent.com/halt9k/interactive-fluid-dynamics/main/desc/Whirpool.mp4)**  
+**![full process video](https://raw.githubusercontent.com/halt9k/interactive-fluid-dynamics/main/Docs/Whirpool.mp4)**  
 
 Preview:  
-![](https://github.com/halt9k/interactive-fluid-dynamics/blob/main/desc/Whirpool.png?raw=true)  
+![](https://github.com/halt9k/interactive-fluid-dynamics/blob/main/Docs/Whirpool.png?raw=true)  
 
 
 Code parallelization (omp directives) test on 8 core CPU:  
-![](https://github.com/halt9k/interactive-fluid-dynamics/blob/main/desc/Parallelization.png?raw=true)  
+![](https://github.com/halt9k/interactive-fluid-dynamics/blob/main/Docs/Parallelization.png?raw=true)  
